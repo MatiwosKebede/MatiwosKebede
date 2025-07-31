@@ -1,4 +1,4 @@
-# 👨‍💻 Matiwos Kebede Gemeda
+# 👨‍💻 Matiwos 
 
 Aspiring Software Engineer | Mobile Developer | Problem Solver
 📍 ASTU | Ethiopia
