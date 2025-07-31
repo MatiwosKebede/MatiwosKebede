@@ -64,8 +64,8 @@ Email: matiwoskebede01@gmail.com
 
 
 
-Software should empower — not overwhelm. I build tools that simplify learning, boost productivity, and work even when the internet doesn’t.
-        Matiwos Kebede Gemeda
+Software should empower — not overwhelm. I build tools that simplify learning, boost productivity, and work even when the internet inaccessable.
+        Matiwos
 
 
 
