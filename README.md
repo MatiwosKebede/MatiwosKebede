@@ -9,13 +9,13 @@ Hi! I'm Matiwos, a passionate Software Engineering student at Adama Science and 
 
 🚀 What Drives Me
 
-I believe software should be simple, efficient, and powerful. My mission is to:
+I believe software should be simple, powerful, and efficient. My mission is to:
 
-🔧 Build practical apps for real users
+🔧 Build  apps practically for real users
 
-📱 Focus on offline-first mobile solutions
+📱 Focus on offline-first mobile solutions that useable everywhere
 
-💡 Learn deeply and solve meaningful problems
+💡 Learn deeply and solve meaningful real world and my community problems
 
 🌍 Create impact through smart, minimal software
 
@@ -44,8 +44,7 @@ Android Studio • AIDE • Linux • Git & GitHub
 
 Android development with local storage
 
-Clean architecture in software design
-
+Software design with clean architecture
 Data structures and algorithms
 
 Full-stack development basics
