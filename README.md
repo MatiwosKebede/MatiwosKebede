@@ -20,7 +20,24 @@ I believe software should be simple, powerful, and efficient. My mission is to:
 🌍 Create impact through smart, minimal software
 
 
+To add a contribution streak to your GitHub profile, you can use a dynamic badge or widget that displays your current streak. Here's how to do it using the popular GitHub Readme Streak Stats tool:
+🔥 Steps to Add a GitHub Contribution Streak
+- Create or Edit Your Profile README
+- If you haven't already, create a repository named exactly like your GitHub username (e.g., matiwos/matiwos).
+- Add a README.md file to that repo — this becomes your profile README.
+- Use the Streak Stats Generator
+- Visit the GitHub Readme Streak Stats project.
+- Scroll down to the "Usage" section and use the provided URL format to embed your streak badge:
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
+- Replace YOUR_USERNAME with your actual GitHub username.
+- Customize the Appearance (Optional)
+- You can customize the theme, background, border, and more by adding query parameters. For example:
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
+
+- Commit and Push
+- Save your changes to the README.md file and push them to GitHub. Your profile will now display your contribution streak.
+Let me know if you want help customizing the badge or combining it with other GitHub stats like top languages or total contributions!
 
 
 🛠️ Tech Stack
