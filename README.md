@@ -50,11 +50,6 @@ I believe the best software is:
 
 ---
 
-### 📈 **GitHub Streak**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=matiwoskebede&theme=tokyonight&hide_border=true)
-
----
 
 ### 📫 **Let’s Connect**
 
