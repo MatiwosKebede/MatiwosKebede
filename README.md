@@ -14,4 +14,4 @@ If something I've built is useful to you, or you want to collaborate — reach o
 
 📬 matiwoskebede01@gmail.com
 
-🐱‍💻 github.com/matiwoskebede
+🐱‍💻 https://github.com/matiwoskebede
